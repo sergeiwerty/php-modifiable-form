@@ -1,0 +1,5 @@
+[
+  "user1" => ["nickname":"Elsa","email":"koko@mail.ru","id":"35"],
+  "user2" => ["nickname":"Helga","email":"some@times.ru","id":"41"],
+  "user3" => ["nickname":"Mike","email":"uuu@mail.ru","id":"84"]
+]
